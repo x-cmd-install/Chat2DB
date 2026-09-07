@@ -1,0 +1,221 @@
+about:
+  description: "Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support."
+  license: NOASSERTION
+  homepage: https://chat2db.ai
+  head: 757ffbb
+  archived: false
+  latestVersion: "v5.3.5"
+  collectedAt: 2026-09-07T03:28:14Z
+timeline:
+  created: 2023-06-20
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-02
+popularity:
+  star: 28085
+  watcher: 164
+  fork: 3028
+  release: 6
+  contributor: 60
+  pullRequest: 1151
+  issue: 1589
+language:
+  Java: 8669642
+  TypeScript: 4994503
+  ANTLR: 1260100
+  TSQL: 522713
+  PLSQL: 127054
+  Shell: 88338
+  JavaScript: 82656
+  Python: 71771
+  Less: 33626
+  Ruby: 2756
+  VBScript: 1194
+  HTML: 1126
+  Dockerfile: 906
+totalBytes: 15856385
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 2
+    mergedPR: 73
+    openPR: 79
+    closedIssue: 25
+    openIssue: 16
+    commit: 0
+  last60d:
+    since: 2026-07-09
+    release: 6
+    mergedPR: 333
+    openPR: 173
+    closedIssue: 241
+    openIssue: 121
+    commit: 0
+  last90d:
+    since: 2026-06-09
+    release: 6
+    mergedPR: 333
+    openPR: 173
+    closedIssue: 254
+    openIssue: 121
+    commit: 0
+  last180d:
+    since: 2026-03-11
+    release: 6
+    mergedPR: 337
+    openPR: 173
+    closedIssue: 272
+    openIssue: 122
+    commit: 0
+  last360d:
+    since: 2025-09-12
+    release: 6
+    mergedPR: 337
+    openPR: 173
+    closedIssue: 286
+    openIssue: 122
+    commit: 0
+  last720d:
+    since: 2024-09-17
+    release: 6
+    mergedPR: 350
+    openPR: 173
+    closedIssue: 463
+    openIssue: 122
+    commit: 845
+total:
+  release: 6
+  mergedPR: 764
+  openPR: 173
+  closedIssue: 1467
+  openIssue: 122
+  commit: 4625
+---
+path: /home/runner/.x-repo/github.com/OtterMind/Chat2DB
+collectedAt: 2026-09-07T03:28:18Z
+loc:
+  Java:
+    code: 175855
+    comments: 5823
+    blanks: 31889
+    files: 2157
+  TypeScript:
+    code: 84205
+    comments: 2518
+    blanks: 6383
+    files: 1009
+  Tsx:
+    code: 55774
+    comments: 1375
+    blanks: 4703
+    files: 324
+  Sql:
+    code: 11843
+    comments: 1611
+    blanks: 897
+    files: 15
+  Json:
+    code: 7031
+    comments: 0
+    blanks: 2
+    files: 59
+  Svg:
+    code: 3797
+    comments: 0
+    blanks: 0
+    files: 11
+  Xml:
+    code: 3738
+    comments: 75
+    blanks: 145
+    files: 52
+  Sh:
+    code: 2393
+    comments: 44
+    blanks: 318
+    files: 15
+  JavaScript:
+    code: 2007
+    comments: 2
+    blanks: 193
+    files: 11
+  Less:
+    code: 1688
+    comments: 48
+    blanks: 294
+    files: 35
+  Python:
+    code: 1651
+    comments: 5
+    blanks: 267
+    files: 5
+  Yaml:
+    code: 159
+    comments: 8
+    blanks: 9
+    files: 7
+  Ruby:
+    code: 44
+    comments: 1
+    blanks: 12
+    files: 1
+  Dockerfile:
+    code: 21
+    comments: 0
+    blanks: 9
+    files: 3
+  Html:
+    code: 18
+    comments: 0
+    blanks: 0
+    files: 1
+  VBScript:
+    code: 13
+    comments: 11
+    blanks: 7
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2009
+    blanks: 795
+    files: 22
+total:
+  code: 350556
+  comments: 13537
+  blanks: 45947
+  files: 3728
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T03:28:20+00:00
+  platform:
+    darwin/arm64:
+      name:  Chat2DB-Community-5.3.5-arm64.dmg
+      url:   https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-arm64.dmg
+      size:  398969175
+      score: 18
+    darwin/amd64:
+      name:  Chat2DB-Community-5.3.5-x64.dmg
+      url:   https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-x64.dmg
+      size:  409677500
+      score: 18
+    linux/arm64:
+      name:  Chat2DB-Community-5.3.5-arm64.dmg
+      url:   https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-arm64.dmg
+      size:  398969175
+      score: 18
+    linux/amd64:
+      name:  Chat2DB-Community-5.3.5-x64.dmg
+      url:   https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-x64.dmg
+      size:  409677500
+      score: 18
+    win/arm64:
+      name:  Chat2DB-Community-5.3.5-arm64.dmg
+      url:   https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-arm64.dmg
+      size:  398969175
+      score: 18
+    win/amd64:
+      name:  Chat2DB-Community-5.3.5-x64.dmg
+      url:   https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-x64.dmg
+      size:  409677500
+      score: 18
