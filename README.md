@@ -7,7 +7,7 @@ Chat2DB is a free, cross-platform, local-first database client and SQL workspace
 - **Latest release**: `v5.3.5` (2026-09-02)
 - **Last commit**: 2026-09-09
 - **License**: NOASSERTION
-- **Stars**: 28095 · **Forks**: 3028 · **Open issues**: 1591 · **Contributors**: 60
+- **Stars**: 28097 · **Forks**: 3029 · **Open issues**: 1594 · **Contributors**: 60
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/Chat2DB> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T03:39:34Z._
+_Last regenerated: 2026-09-09T18:25:02Z._
