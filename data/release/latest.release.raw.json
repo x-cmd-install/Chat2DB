@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 393960257,
       "digest": "sha256:d3ed5259b975df3b7c5ff60fa36f01fc4ca23e809140c209a1e468107e87455e",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-09-02T13:15:40Z",
       "updated_at": "2026-09-02T13:15:59Z",
       "browser_download_url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-aarch64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 353097018,
       "digest": "sha256:2b9ec4c7af16a82247d38b8c6b5f7ba03103ab2219bfac5c268535d3bdd91a38",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-09-02T13:15:40Z",
       "updated_at": "2026-09-02T13:15:57Z",
       "browser_download_url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 351533398,
       "digest": "sha256:9ea13320a641b538707206ead084e5ec57b694a42507496efcd284920dae74e2",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-02T13:15:40Z",
       "updated_at": "2026-09-02T13:16:00Z",
       "browser_download_url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-arm64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 398969175,
       "digest": "sha256:0b34ed97130090c262e2e4137fe084b79c6d1ada38350e085a2e73de9a346746",
-      "download_count": 64,
+      "download_count": 75,
       "created_at": "2026-09-02T13:15:40Z",
       "updated_at": "2026-09-02T13:15:58Z",
       "browser_download_url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-arm64.dmg"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 409677500,
       "digest": "sha256:58b7cd677531241a803a43e14ea590281c7aaa62f338a19cf282e62088aad523",
-      "download_count": 32,
+      "download_count": 34,
       "created_at": "2026-09-02T13:15:58Z",
       "updated_at": "2026-09-02T13:16:15Z",
       "browser_download_url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-x64.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 381204984,
       "digest": "sha256:54888f3bdf9518286fb0f279aaee8761283d2c55defe4d59618733723f82d08c",
-      "download_count": 83,
+      "download_count": 85,
       "created_at": "2026-09-02T13:15:59Z",
       "updated_at": "2026-09-02T13:16:15Z",
       "browser_download_url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-x86_64.AppImage"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 392983857,
       "digest": "sha256:359900aa581f66a34490ef22c2469bef9199d6cac22b783e9f53d1418a593d93",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-09-02T13:15:59Z",
       "updated_at": "2026-09-02T13:16:15Z",
       "browser_download_url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5-x86_64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 425004465,
       "digest": "sha256:53e2aabbd46e1fc59bf80f71fd2aaf74b124ae6b8c7258e456ed7c8135c8e856",
-      "download_count": 238,
+      "download_count": 270,
       "created_at": "2026-09-02T13:15:59Z",
       "updated_at": "2026-09-02T13:16:18Z",
       "browser_download_url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.5/Chat2DB-Community-5.3.5.msi"
