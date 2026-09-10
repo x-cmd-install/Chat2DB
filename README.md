@@ -20,37 +20,51 @@ x install Chat2DB
 
 ## Release
 
-- **Latest**: `v5.3.5` (2026-09-02)
+- **Latest**: `v5.3.6` (2026-09-10)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 10
-- **Published**: 2026-09-02T13:28:30Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [Chat2DB-Community-5.3.6-aarch64.rpm](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-aarch64.rpm) | 375.8 MiB | `other` |
+| [Chat2DB-Community-5.3.6-amd64.deb](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-amd64.deb) | 336.9 MiB | `other` |
+| [Chat2DB-Community-5.3.6-arm64.AppImage](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-arm64.AppImage) | 363.2 MiB | `other` |
+| [Chat2DB-Community-5.3.6-arm64.deb](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-arm64.deb) | 335.4 MiB | `other` |
+| [Chat2DB-Community-5.3.6-arm64.dmg](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-arm64.dmg) | 380.5 MiB | `other` |
+| [Chat2DB-Community-5.3.6-x64.dmg](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-x64.dmg) | 390.8 MiB | `other` |
+| [Chat2DB-Community-5.3.6-x86_64.AppImage](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-x86_64.AppImage) | 363.7 MiB | `other` |
+| [Chat2DB-Community-5.3.6-x86_64.rpm](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-x86_64.rpm) | 374.9 MiB | `other` |
+| [Chat2DB-Community-5.3.6.msi](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6.msi) | 405.5 MiB | `other` |
+| [SHA256SUMS](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/SHA256SUMS) | 906 B | `other` |
 
 ## Popularity
 
-- **Stars**: 28,097 · **Forks**: 3,030 · **Open issues**: 1,595 · **Contributors**: 60
+- **Stars**: 28,103 · **Forks**: 3,030 · **Open issues**: 1,595 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 789 · **Open PRs**: 161 · **Closed issues**: 1477 · **Open issues**: 118 · **Commits**: 4748
+- **Releases**: 7 · **Merged PRs**: 795 · **Open PRs**: 154 · **Closed issues**: 1479 · **Open issues**: 116 · **Commits**: 4808
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 92 | 66 | 27 | 10 | 185 |
-| 90d | 2026-06-12 | 6 | 358 | 161 | 263 | 117 | 607 |
-| 360d | 2025-09-15 | 6 | 362 | 161 | 296 | 118 | 628 |
+| 30d | 2026-08-11 | 3 | 96 | 62 | 27 | 10 | 0 |
+| 90d | 2026-06-12 | 7 | 364 | 154 | 265 | 115 | 0 |
+| 360d | 2025-09-15 | 7 | 368 | 154 | 298 | 116 | 0 |
 
 ## Code size
 
-Total: **355,863** lines of code across **3633** files in the top 5 languages.
+Total: **358,539** lines of code across **3648** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 180,227 | 5,904 | 32,505 | 2197 |
-| TypeScript | 85,184 | 2,524 | 6,520 | 1032 |
-| Tsx | 56,024 | 1,373 | 4,729 | 327 |
-| Sql | 11,864 | 1,616 | 901 | 18 |
+| Java | 181,824 | 5,905 | 32,722 | 2204 |
+| TypeScript | 85,971 | 2,525 | 6,555 | 1035 |
+| Tsx | 56,301 | 1,373 | 4,726 | 329 |
+| Sql | 11,879 | 1,620 | 904 | 21 |
 | Json | 7,035 | 0 | 2 | 59 |
 
 ## Improve this data
@@ -58,8 +72,8 @@ Total: **355,863** lines of code across **3633** files in the top 5 languages.
 Install metadata for Chat2DB lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `Chat2DB` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/Chat2DB.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/Chat2DB.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:36:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:58:21Z._

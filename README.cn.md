@@ -4,7 +4,7 @@
 
 Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.
 
-![Chat2DB](https://repo.x-cmd.io/Chat2DB.svg)
+![Chat2DB](https://repo.x-cmd.io/Chat2DB.svg?lang=zh)
 
 ## 安装
 
@@ -20,37 +20,51 @@ x install Chat2DB
 
 ## 发布
 
-- **最新版本**: `v5.3.5` (2026-09-02)
+- **最新版本**: `v5.3.6` (2026-09-10)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-09-02T13:28:30Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [Chat2DB-Community-5.3.6-aarch64.rpm](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-aarch64.rpm) | 375.8 MiB | `other` |
+| [Chat2DB-Community-5.3.6-amd64.deb](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-amd64.deb) | 336.9 MiB | `other` |
+| [Chat2DB-Community-5.3.6-arm64.AppImage](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-arm64.AppImage) | 363.2 MiB | `other` |
+| [Chat2DB-Community-5.3.6-arm64.deb](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-arm64.deb) | 335.4 MiB | `other` |
+| [Chat2DB-Community-5.3.6-arm64.dmg](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-arm64.dmg) | 380.5 MiB | `other` |
+| [Chat2DB-Community-5.3.6-x64.dmg](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-x64.dmg) | 390.8 MiB | `other` |
+| [Chat2DB-Community-5.3.6-x86_64.AppImage](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-x86_64.AppImage) | 363.7 MiB | `other` |
+| [Chat2DB-Community-5.3.6-x86_64.rpm](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6-x86_64.rpm) | 374.9 MiB | `other` |
+| [Chat2DB-Community-5.3.6.msi](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6.msi) | 405.5 MiB | `other` |
+| [SHA256SUMS](https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/SHA256SUMS) | 906 B | `other` |
 
 ## 流行度
 
-- **Star**: 28,097 · **Fork**: 3,030 · **开放 issue**: 1,595 · **贡献者**: 60
+- **Star**: 28,103 · **Fork**: 3,030 · **开放 issue**: 1,595 · **贡献者**: 60
 
 ## 累计统计
 
-- **发布数**: 6 · **已合并 PR**: 789 · **开放 PR**: 161 · **已关闭 issue**: 1477 · **开放 issue**: 118 · **提交数**: 4748
+- **发布数**: 7 · **已合并 PR**: 795 · **开放 PR**: 154 · **已关闭 issue**: 1479 · **开放 issue**: 116 · **提交数**: 4808
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 92 | 66 | 27 | 10 | 185 |
-| 90d | 2026-06-12 | 6 | 358 | 161 | 263 | 117 | 607 |
-| 360d | 2025-09-15 | 6 | 362 | 161 | 296 | 118 | 628 |
+| 30d | 2026-08-11 | 3 | 96 | 62 | 27 | 10 | 0 |
+| 90d | 2026-06-12 | 7 | 364 | 154 | 265 | 115 | 0 |
+| 360d | 2025-09-15 | 7 | 368 | 154 | 298 | 116 | 0 |
 
 ## 代码规模
 
-合计: **355,863** 行代码（覆盖前 5 种语言、共 **3633** 个文件）。
+合计: **358,539** 行代码（覆盖前 5 种语言、共 **3648** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Java | 180,227 | 5,904 | 32,505 | 2197 |
-| TypeScript | 85,184 | 2,524 | 6,520 | 1032 |
-| Tsx | 56,024 | 1,373 | 4,729 | 327 |
-| Sql | 11,864 | 1,616 | 901 | 18 |
+| Java | 181,824 | 5,905 | 32,722 | 2204 |
+| TypeScript | 85,971 | 2,525 | 6,555 | 1035 |
+| Tsx | 56,301 | 1,373 | 4,726 | 329 |
+| Sql | 11,879 | 1,620 | 904 | 21 |
 | Json | 7,035 | 0 | 2 | 59 |
 
 ## 改进这些数据
@@ -62,4 +76,4 @@ Chat2DB 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:36:41Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:58:21Z._
