@@ -4,7 +4,7 @@
 
 Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.
 
-![Chat2DB](https://repo.x-cmd.io/Chat2DB.svg)
+[![x-cmd/install — Chat2DB Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Chat2DB.svg)](https://x-cmd.com/install/Chat2DB)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install Chat2DB
 
 ## Code insight
 
-Total: **371,759** lines of code across **3752** files in the top 5 languages.
+Total: **373,524** lines of code across **3776** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 192,499 | 6,115 | 34,138 | 2296 |
-| TypeScript | 86,861 | 2,531 | 6,621 | 1044 |
-| Tsx | 56,394 | 1,372 | 4,729 | 331 |
+| Java | 193,727 | 6,158 | 34,269 | 2312 |
+| TypeScript | 87,013 | 2,534 | 6,634 | 1046 |
+| Tsx | 56,804 | 1,375 | 4,743 | 337 |
 | Sql | 11,879 | 1,620 | 904 | 21 |
 | Json | 7,049 | 0 | 2 | 60 |
 
@@ -32,28 +32,28 @@ Total: **371,759** lines of code across **3752** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v5.3.6` (2026-09-10)
-- **Last commit**: 2026-09-18
+- **Latest**: `v5.3.7-beta.3` (2026-09-10)
+- **Last commit**: 2026-09-19
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 28,140 · **Forks**: 3,034 · **Open issues**: 1,596 · **Contributors**: 60
+- **Stars**: 28,161 · **Forks**: 3,036 · **Open issues**: 1,597 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 836 · **Open PRs**: 123 · **Closed issues**: 1490 · **Open issues**: 106 · **Commits**: 5057
+- **Releases**: 8 · **Merged PRs**: 847 · **Open PRs**: 125 · **Closed issues**: 1490 · **Open issues**: 107 · **Commits**: 5078
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 108 | 45 | 23 | 9 | 274 |
-| last60d | 2026-07-20 | 6 | 402 | 122 | 260 | 103 | 680 |
-| 90d | 2026-06-20 | 7 | 405 | 123 | 273 | 105 | 763 |
-| last180d | 2026-03-22 | 7 | 408 | 123 | 294 | 105 | 782 |
-| 360d | 2025-09-23 | 7 | 409 | 123 | 309 | 106 | 787 |
-| last720d | 2024-09-28 | 7 | 421 | 123 | 478 | 106 | 1271 |
+| 30d | 2026-08-21 | 3 | 106 | 47 | 19 | 8 | 285 |
+| last60d | 2026-07-22 | 7 | 389 | 124 | 240 | 102 | 691 |
+| 90d | 2026-06-22 | 8 | 416 | 125 | 273 | 106 | 774 |
+| last180d | 2026-03-24 | 8 | 419 | 125 | 294 | 106 | 793 |
+| 360d | 2025-09-25 | 8 | 420 | 125 | 309 | 107 | 798 |
+| last720d | 2024-09-30 | 8 | 432 | 125 | 478 | 107 | 1292 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for Chat2DB lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:44:17Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:57:14Z._
