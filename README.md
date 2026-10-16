@@ -33,27 +33,27 @@ Total: **385,193** lines of code across **3863** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.3.8` (2026-10-09)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-16
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 28,314 · **Forks**: 3,054 · **Open issues**: 1,606 · **Contributors**: 60
+- **Stars**: 28,315 · **Forks**: 3,058 · **Open issues**: 1,608 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 866 · **Open PRs**: 130 · **Closed issues**: 1496 · **Open issues**: 110 · **Commits**: 5148
+- **Releases**: 12 · **Merged PRs**: 869 · **Open PRs**: 131 · **Closed issues**: 1496 · **Open issues**: 112 · **Commits**: 5155
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 5 | 37 | 11 | 4 | 7 | 64 |
-| last60d | 2026-08-16 | 8 | 144 | 52 | 32 | 14 | 351 |
-| 90d | 2026-07-17 | 12 | 434 | 130 | 268 | 109 | 769 |
-| last180d | 2026-04-18 | 12 | 437 | 130 | 292 | 109 | 842 |
-| 360d | 2025-10-20 | 12 | 439 | 130 | 314 | 110 | 848 |
-| last720d | 2024-10-25 | 12 | 448 | 130 | 478 | 110 | 1349 |
+| 30d | 2026-09-16 | 5 | 36 | 12 | 4 | 9 | 0 |
+| last60d | 2026-08-17 | 8 | 146 | 53 | 30 | 16 | 0 |
+| 90d | 2026-07-18 | 11 | 437 | 131 | 268 | 111 | 0 |
+| last180d | 2026-04-19 | 12 | 440 | 131 | 292 | 111 | 0 |
+| 360d | 2025-10-21 | 12 | 442 | 131 | 314 | 112 | 0 |
+| last720d | 2024-10-26 | 12 | 451 | 131 | 477 | 112 | 1353 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for Chat2DB lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T03:40:22Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T03:37:08Z._
