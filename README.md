@@ -48,12 +48,12 @@ Total: **404,064** lines of code across **3980** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 2 | 10 | 5 | 1 | 8 | 49 |
-| last60d | 2026-08-31 | 8 | 77 | 17 | 8 | 14 | 250 |
-| 90d | 2026-08-01 | 10 | 247 | 102 | 113 | 87 | 583 |
-| last180d | 2026-05-03 | 13 | 442 | 130 | 291 | 113 | 879 |
-| 360d | 2025-11-04 | 13 | 446 | 130 | 314 | 114 | 890 |
-| last720d | 2024-11-09 | 13 | 453 | 130 | 462 | 114 | 1373 |
+| 30d | 2026-10-01 | 2 | 10 | 5 | 1 | 8 | 49 |
+| last60d | 2026-09-01 | 8 | 73 | 17 | 8 | 13 | 250 |
+| 90d | 2026-08-02 | 10 | 246 | 102 | 112 | 87 | 583 |
+| last180d | 2026-05-04 | 13 | 442 | 130 | 291 | 113 | 879 |
+| 360d | 2025-11-05 | 13 | 446 | 130 | 314 | 114 | 890 |
+| last720d | 2024-11-10 | 13 | 453 | 130 | 461 | 114 | 1373 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for Chat2DB lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T04:50:35Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T04:35:28Z._
