@@ -14,7 +14,7 @@ x install Chat2DB
 
 ## Code insight
 
-Total: **404,064** lines of code across **3980** files in the top 5 languages.
+Total: **404,078** lines of code across **3980** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **404,064** lines of code across **3980** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.3.9-beta.2` (2026-10-29)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-11-02
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 28,348 · **Forks**: 3,047 · **Open issues**: 1,612 · **Contributors**: 60
+- **Stars**: 28,350 · **Forks**: 3,046 · **Open issues**: 1,612 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 873 · **Open PRs**: 131 · **Closed issues**: 1496 · **Open issues**: 116 · **Commits**: 5201
+- **Releases**: 13 · **Merged PRs**: 874 · **Open PRs**: 130 · **Closed issues**: 1496 · **Open issues**: 116 · **Commits**: 5203
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 10 | 5 | 1 | 10 | 47 |
-| last60d | 2026-09-03 | 7 | 68 | 17 | 8 | 15 | 188 |
-| 90d | 2026-08-04 | 10 | 187 | 89 | 49 | 58 | 461 |
-| last180d | 2026-05-06 | 13 | 442 | 131 | 291 | 115 | 879 |
-| 360d | 2025-11-07 | 13 | 446 | 131 | 314 | 116 | 890 |
-| last720d | 2024-11-12 | 13 | 453 | 131 | 461 | 116 | 1373 |
+| 30d | 2026-10-04 | 2 | 11 | 4 | 1 | 10 | 48 |
+| last60d | 2026-09-04 | 7 | 68 | 16 | 7 | 15 | 189 |
+| 90d | 2026-08-05 | 10 | 182 | 77 | 44 | 25 | 462 |
+| last180d | 2026-05-07 | 13 | 443 | 130 | 290 | 115 | 880 |
+| 360d | 2025-11-08 | 13 | 447 | 130 | 314 | 116 | 891 |
+| last720d | 2024-11-13 | 13 | 454 | 130 | 460 | 116 | 1375 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for Chat2DB lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T04:57:13Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T05:45:55Z._
