@@ -38,7 +38,7 @@ Total: **404,145** lines of code across **3980** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 28,376 · **Forks**: 3,043 · **Open issues**: 1,619 · **Contributors**: 60
+- **Stars**: 28,373 · **Forks**: 3,044 · **Open issues**: 1,619 · **Contributors**: 60
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **404,145** lines of code across **3980** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 4 | 2 | 0 | 10 | 2 |
-| last60d | 2026-09-26 | 2 | 16 | 7 | 1 | 18 | 51 |
-| 90d | 2026-08-27 | 8 | 107 | 50 | 16 | 25 | 287 |
-| last180d | 2026-05-29 | 13 | 444 | 89 | 325 | 81 | 871 |
-| 360d | 2025-11-30 | 13 | 448 | 89 | 356 | 82 | 892 |
-| last720d | 2024-12-05 | 13 | 454 | 89 | 482 | 82 | 1377 |
+| 30d | 2026-10-27 | 1 | 2 | 2 | 0 | 10 | 2 |
+| last60d | 2026-09-27 | 2 | 16 | 7 | 1 | 18 | 51 |
+| 90d | 2026-08-28 | 8 | 102 | 50 | 11 | 24 | 287 |
+| last180d | 2026-05-30 | 13 | 444 | 89 | 325 | 81 | 871 |
+| 360d | 2025-12-01 | 13 | 448 | 89 | 356 | 82 | 892 |
+| last720d | 2024-12-06 | 13 | 454 | 89 | 482 | 82 | 1377 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for Chat2DB lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T07:30:36Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T07:19:13Z._
